@@ -7,7 +7,7 @@ import openai as OpenAI
 
 recognizer=sr.Recognizer()
 engine = pyttsx3.init()
-newsapi="9f2401e6820d424c9b6aaa5a490f906d"
+newsapi="News_Api_Key"
 
 def speak(text):
     engine.say(text)
@@ -15,7 +15,7 @@ def speak(text):
 
 def aiProcess(command):
     client = OpenAI(
-    api_key="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"
+    api_key="OpenAI_api_key"
     )
 
     completion = client.chat.completions.create(
@@ -53,7 +53,7 @@ if __name__ == "__main__":
                     speak(f"Playing {song}")
 
                 elif c.lower().startswith("news"):
-                    r=requests.get(f"https://newsapi.org/v2/top-headlines?country=in&apiKey=9f2401e6820d424c9b6aaa5a490f906d")
+                    r=requests.get(f"https://newsapi.org/v2/top-headlines?country=in&apiKey={newsapi")
                     if r.status_code == 200:
                         data = r.json()
                         
