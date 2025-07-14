@@ -1,0 +1,4 @@
+Medication reconciliation is a formal process of creating the most complete and accurate list possible of a patient's current medications and comparing it against physician orders at all transition points.
+- Key Transition Points: Reconciliation must occur at admission (comparing home medications with inpatient orders), transfer (ensuring continuity between units), and discharge (comparing inpatient medications with new prescriptions).
+- Discrepancy Management: The core of reconciliation is identifying and resolving discrepancies. This includes documenting the clinical reasoning for any changes made (e.g., starting, stopping, or modifying a medication).
+- Collaborative Approach: Medication reconciliation is a team effort, often involving physicians, nurses, and clinical pharmacists. Pharmacists play a key role in reviewing reconciliation decisions to optimize therapy and catch potential errors.
