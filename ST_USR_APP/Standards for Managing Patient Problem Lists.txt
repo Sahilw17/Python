@@ -1,5 +1,0 @@
-The patient problem list is a dynamic summary of a patient's most significant health issues. Effective management ensures that all members of the care team have a shared understanding of the patient's health status.
-- Standardized Coding: All diagnoses on the problem list should be coded using the ICD-10-CM classification system. This standardization is essential for accurate billing, reporting, and clinical research.
-- Problem List Attributes: Each entry on the problem list should include the specific diagnosis, the date of onset, the clinical status (e.g., active, resolved, worsening), and the provider who documented the problem.
-- Lifecycle Management: The problem list is not static. Providers must have workflows to add new diagnoses, update the status of existing problems, and mark problems as "resolved" when they are no longer active.
-- Reconciliation: During any transition of care, the problem list must be reconciled to ensure it is accurate and reflects the most current clinical understanding.
