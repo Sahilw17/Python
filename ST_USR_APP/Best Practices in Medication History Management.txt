@@ -1,7 +1,0 @@
-A complete and accurate medication history is a cornerstone of patient safety. This document outlines the essential components and best practices for managing medication histories within an Electronic Health Record (EHR) system.
-- Core Components: A comprehensive medication history includes four key areas:
-    - Active Medications: All current prescriptions, including dosage, frequency, and prescribing physician. Standardization using codes like RxNorm is crucial for interoperability.
-    - Discontinued Medications: A log of past medications, noting the stop date and reason for discontinuation (e.g., adverse effect, treatment completion). This is vital for avoiding re-prescription of problematic drugs.
-    - Allergies: A clearly documented list of all known allergies, including the substance, the nature of the reaction, and its severity. Using standardized terminology like SNOMED-CT helps ensure clarity.
-    - Adverse Drug Reactions (ADRs): Specific documented instances of adverse reactions, distinct from allergies, detailing the drug and the clinical outcome.
-- Data Integrity and Reconciliation: Real-time integration with pharmacy systems and national prescription databases ensures that the medication list is current. Regular medication reconciliation during any transition of care is a critical safety process to identify and resolve discrepancies.
